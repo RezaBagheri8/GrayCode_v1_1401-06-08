@@ -1,0 +1,15 @@
+D:\kia prjc\tamrin\GrayCode\GrayCode\bin\Debug\net6.0\GrayCode.exe
+D:\kia prjc\tamrin\GrayCode\GrayCode\bin\Debug\net6.0\GrayCode.deps.json
+D:\kia prjc\tamrin\GrayCode\GrayCode\bin\Debug\net6.0\GrayCode.runtimeconfig.json
+D:\kia prjc\tamrin\GrayCode\GrayCode\bin\Debug\net6.0\GrayCode.dll
+D:\kia prjc\tamrin\GrayCode\GrayCode\bin\Debug\net6.0\ref\GrayCode.dll
+D:\kia prjc\tamrin\GrayCode\GrayCode\bin\Debug\net6.0\GrayCode.pdb
+D:\kia prjc\tamrin\GrayCode\GrayCode\obj\Debug\net6.0\GrayCode.csproj.AssemblyReference.cache
+D:\kia prjc\tamrin\GrayCode\GrayCode\obj\Debug\net6.0\GrayCode.GeneratedMSBuildEditorConfig.editorconfig
+D:\kia prjc\tamrin\GrayCode\GrayCode\obj\Debug\net6.0\GrayCode.AssemblyInfoInputs.cache
+D:\kia prjc\tamrin\GrayCode\GrayCode\obj\Debug\net6.0\GrayCode.AssemblyInfo.cs
+D:\kia prjc\tamrin\GrayCode\GrayCode\obj\Debug\net6.0\GrayCode.csproj.CoreCompileInputs.cache
+D:\kia prjc\tamrin\GrayCode\GrayCode\obj\Debug\net6.0\GrayCode.dll
+D:\kia prjc\tamrin\GrayCode\GrayCode\obj\Debug\net6.0\ref\GrayCode.dll
+D:\kia prjc\tamrin\GrayCode\GrayCode\obj\Debug\net6.0\GrayCode.pdb
+D:\kia prjc\tamrin\GrayCode\GrayCode\obj\Debug\net6.0\GrayCode.genruntimeconfig.cache
