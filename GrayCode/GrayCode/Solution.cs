@@ -53,5 +53,20 @@ namespace GrayCode
 
             return decimalNumbers;
         }
+        
+        //Best solution for this question
+        //public IList<int> GrayCode(int n)
+        //{
+            //List<int> grayCode = new List<int>() { 0, 1 };
+            //int ithBit = 0;
+            //while (++ithBit < n)
+                //for (int i = grayCode.Count - 1; i >= 0; i--)
+                //{
+                    //string x = Convert.ToString(1 << ithBit, toBase: 2);
+                    //int y = grayCode[i] | int.Parse(Convert.ToString(x));
+                    //grayCode.Add(grayCode[i] | 1 << ithBit);
+                //}
+            //return grayCode;
+        //}
     }
 }
